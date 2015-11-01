@@ -11,7 +11,7 @@ use yii\web\AssetBundle;
 class TagitAsset extends AssetBundle
 {
 
-    public $sourcePath = '@bower/tag-it';
+    public $sourcePath = '@vendor/tag-it';
     public $basePath = '@webroot/assets';
     public $js = ['js/tag-it.js'];
     public $css = [
