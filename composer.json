@@ -19,7 +19,7 @@
     "require": {
         "yiisoft/yii2": "*",
         "yiisoft/yii2-jui": "~2.0.0",
-        "hior/tag-it": "dev-hior"
+        "aehlke/tag-it": "dev-hior"
     },
     "autoload": {
         "psr-4": {
