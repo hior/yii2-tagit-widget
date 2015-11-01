@@ -10,12 +10,6 @@
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/hior/tag-it.git"
-        }
-    ],        
     "require": {
         "yiisoft/yii2": "*",
         "yiisoft/yii2-jui": "~2.0.0"
